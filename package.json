@@ -1,6 +1,6 @@
 {
   "name": "@greylocklabs/stylelint-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Greylock Labs Stylelint rules",
   "author": {
     "name": "Ty-Lucas Kelley",
@@ -24,7 +24,6 @@
     "vue"
   ],
   "scripts": {
-    "preinstall": "node -e \"if (!~process.env.npm_execpath.indexOf('yarn')) throw new Error('Install dependencies with yarn, not npm')\"",
     "clean": "rm -rf node_modules",
     "postclean": "yarn install",
     "lint": "yarn lint:js && yarn lint:md",

@@ -6,9 +6,15 @@ All notable changes to this project will be documented in this file. The format 
 
 ---
 
-## [Unreleased](https://github.com/greylocklabs/stylelint-config/compare/1.1.0...HEAD)
+## [Unreleased](https://github.com/greylocklabs/stylelint-config/compare/1.1.1...HEAD)
 
 - N/A
+
+## [1.1.1](https://github.com/greylocklabs/stylelint-config/releases/tag/1.1.1) - 2019-04-22
+
+### Fixed
+
+- Remove yarn preinstall hook
 
 ## [1.1.0](https://github.com/greylocklabs/stylelint-config/releases/tag/1.1.0) - 2019-04-22
 
