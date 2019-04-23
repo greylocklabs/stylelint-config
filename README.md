@@ -51,9 +51,8 @@ Eventually, the goal is to merge the two projects together.
 
 ## Testing
 
-To run tests for this package, install the development dependencies with
-`npm install` from this folder and then run `npm test`.
+Run `yarn test` to run unit tests.
 
 ## License
 
-MIT License. See LICENSE file for details.
+MIT License. See [LICENSE](LICENSE) file for details.
