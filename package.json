@@ -1,6 +1,6 @@
 {
   "name": "@greylocklabs/stylelint-config",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Greylock Labs Stylelint rules",
   "author": {
     "name": "Ty-Lucas Kelley",
