@@ -6,9 +6,15 @@ All notable changes to this project will be documented in this file. The format 
 
 ---
 
-## [Unreleased](https://github.com/greylocklabs/stylelint-config/compare/1.1.1...HEAD)
+## [Unreleased](https://github.com/greylocklabs/stylelint-config/compare/1.2.2...HEAD)
 
 - N/A
+
+## [1.2.2](https://github.com/greylocklabs/stylelint-config/releases/tag/1.2.2) - 2020-02-24
+
+### Changed
+
+- Bump dependencies
 
 ## [1.1.1](https://github.com/greylocklabs/stylelint-config/releases/tag/1.1.1) - 2019-04-22
 
